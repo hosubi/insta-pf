@@ -18,6 +18,7 @@ prompt = '''As an Instagram pundit, please analyze the profile setting of exampl
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
 위 값을 바탕으로 답변!
+줄간격을 잘 맞춰서! 총4~5줄 답변!
 예시 참고! 분석+ 최적의 결과을 만들줘!(결과값만!)
 #주제 키워드:'''
 
