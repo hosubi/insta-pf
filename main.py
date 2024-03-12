@@ -9,30 +9,18 @@ st.header('블로그 :red[소제목 서론 생성기!]', divider='rainbow')
 st.write('지수 상승과 체류시간 상승!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
-prompt = '''Command: 10 billion times as a blog marketing storyteller!, #keyword, #deliver the title, write 3 sentences of the storytelling copywriting introduction, 3 hooking (#Real benefits vs. concern, opportunity cost case by comparison in inconvenience if not) title recommendation, anchor effect citation for persuasion!
+prompt = '''인스타 전문가로써 답변해줘!
+아래 예시는 팔로워가 생기는 릴스 팔로워가 생기는 프로필세팅!
+참고해서 답변만 작성해줘!
+예시:
+섭엗 | 쉬운 마케팅 + 동기부여
+망한계정 (3년 방치된 계정)에서
+릴스1개 ➡️ 24만뷰+팔로1500명❗️
+🎁터지는 제목 생성기! 👇무료전자책🫡
+⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
-Condition: Regarding the #keyword topic,
-Quoting celebrities or books, there are no naturally duplicated documents like humans, they are reliable, sentences are easy and readable!
-
-
-Example:
-(Introduction: 관절연골 문제는 나이를 불문하고 많은 이들이 공통으로 겪는 불편함 중 하나입니다. 특히, 우리가 사랑하는 가족들이 이러한 문제로 고생하는 것을 보면, 더욱 마음이 아픕니다. 저희 가정에서도 어르신들께서는 항상 "젊을 때부터 몸 관리를 잘해야 한다"고 강조하셨습니다.
-
-최근 TV에서 활약하는 이만기 전 씨름 천하장사를 보며, 격한 운동 후 관절연골 관리의 중요성을 다시 한번 깨달았습니다. 은퇴한 스포츠 선수들이 은퇴 후 겪는 몸의 변화는 누구도 피할 수 없는 현실이기에, 더욱 관심을 기울여야 할 문제입니다.
-Hooking Subtitle: 
-괄절연골 아프면 큰일나는이유!
-반드시 성공하는 관리 방법!
-
-Anchor Effect Quotes and Sources:
-월급에 만족 못하시면 보세요!
-통계에 따르면 10%~20% 제외하고 모두 불만족이라는데!
-
-출처 : ~책에 따르면 0R ~통계자료, ~누구 인용)
-Format: 
-
-
-Write by referring to 4 conditions (commands, conditions, yes, format) !!
-Correct in Korean!!
+캡션을 넣으면!
+분석과 최적의 대안을 답해줘!(결과값만!)
 #:'''
 
 
