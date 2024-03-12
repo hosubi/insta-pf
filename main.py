@@ -10,21 +10,23 @@ st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
 prompt = '''As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
-예시:
+
+Answer based on example value!
+In the answer, type of text as in the example! Line up!
+(1 sentence title,
+Performance in 2 sentences,
+3 sentence benefit provided)
+Readable! Answer 3 to 4 sentences in total!
+Example Note! Make the best result! (Result value only!)
+[Example: Don't reuse it!]
+
+((예시:
 섭엗 | 쉬운 마케팅 + 동기부여
 망한계정 (3년 방치된 계정)에서
 릴스1개 ➡️ 24만뷰+팔로1500명❗️
 🎁터지는 제목 생성기! 👇무료전자책🫡
-⬇️ 캡션 생성기 ,릴스떡상계산기🚀
+⬇️ 캡션 생성기 ,릴스떡상계산기🚀))
 
-[예시 값을 바탕으로 답변!
-답변시 예시와 같은 글형식! 줄 맞춤!
-(1문장 제목,
-2문장 성과,
-3문장 혜택제공)
-가독성 좋게! 총3~4문장 답변!
-예시 참고! 최적의 결과을 만들줘!(결과값만!)
-예시 재사용 금지!]
 #주제 키워드:'''
 
 
