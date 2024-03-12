@@ -9,9 +9,7 @@ st.header('인스타 :red[프로필!]', divider='rainbow')
 st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
-prompt = '''인스타 전문가로써 답변해줘!!
-아래 예시는 팔로워가 생기는 릴스 팔로워가 생기는 프로필세팅!
-참고해서 답변만 작성해줘!
+prompt = '''As an Instagram pundit, please analyze the profile setting of examples (#topic, keyword) and make a recommended profile example when you provide it!
 예시:
 섭엗 | 쉬운 마케팅 + 동기부여
 망한계정 (3년 방치된 계정)에서
@@ -19,9 +17,9 @@ prompt = '''인스타 전문가로써 답변해줘!!
 🎁터지는 제목 생성기! 👇무료전자책🫡
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
-캡션을 넣으면! 위 값을 바탕으로 답변!
+위 값을 바탕으로 답변!
 예시 참고! 분석+ 최적의 결과을 만들줘!(결과값만!)
-#:'''
+#주제 키워드:'''
 
 
 if st.button('릴스 프로필!'):
