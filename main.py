@@ -9,7 +9,7 @@ st.header('인스타 :red[프로필!]', divider='rainbow')
 st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
-prompt = '''As an Instagram pundit, please analyze the profile setting of examples (#topic, keyword) and make a recommended profile example when you provide it!
+prompt = '''As an Instagram pundit, please analyze the profile setting of examples (#topic, keyword) and make a recommended profile example when you provide it! (short, readable text) Please keep it!
 예시:
 섭엗 | 쉬운 마케팅 + 동기부여
 망한계정 (3년 방치된 계정)에서
