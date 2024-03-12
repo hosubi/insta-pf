@@ -5,8 +5,8 @@ from langchain.chat_models import ChatOpenAI
 
 chat_model = ChatOpenAI()
 
-st.header('블로그 :red[소제목 서론 생성기!]', divider='rainbow')
-st.write('지수 상승과 체류시간 상승!:exclamation:')
+st.header('인스타 :red[프로필!]', divider='rainbow')
+st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
 prompt = '''인스타 전문가로써 답변해줘!
@@ -20,7 +20,7 @@ prompt = '''인스타 전문가로써 답변해줘!
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
 캡션을 넣으면!
-분석과 최적의 대안을 답해줘!(결과값만!)
+예시 참고! 분석과 최적의 결과을 만들줘!(결과값만!)
 #:'''
 
 
