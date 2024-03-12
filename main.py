@@ -9,7 +9,7 @@ st.header('인스타 :red[프로필!]', divider='rainbow')
 st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
-prompt = '''인스타 전문가로써 답변해줘!
+prompt = '''인스타 전문가로써 답변해줘!!
 아래 예시는 팔로워가 생기는 릴스 팔로워가 생기는 프로필세팅!
 참고해서 답변만 작성해줘!
 예시:
@@ -20,11 +20,11 @@ prompt = '''인스타 전문가로써 답변해줘!
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
 캡션을 넣으면!
-예시 참고! 분석과 최적의 결과을 만들줘!(결과값만!)
+예시 참고! 분석+ 최적의 결과을 만들줘!(결과값만!)
 #:'''
 
 
-if st.button('블로그 소제목 서론 생성기!'):
+if st.button('릴스 프로필!'):
     with st.spinner('시간이 걸릴 수 있어요! 기다려주세요! 추천 중...'):
         result = chat_model.predict( prompt + content )
         st.write(result)
