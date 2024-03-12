@@ -18,7 +18,7 @@ prompt = '''As an Instagram pundit, please analyze the profile setting of exampl
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀
 
 [예시 값을 바탕으로 답변!
-답변시 예시와 같은 줄 맞춤!
+답변시 예시와 같은 글형식! 줄 맞춤!
 (1문장 제목,
 2문장 성과,
 3문장 혜택제공)
