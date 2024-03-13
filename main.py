@@ -25,12 +25,7 @@ Example Note! Make the best result! (Result value only!)
 🎁터지는 제목 생성기! 👇무료전자책🫡
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀))
 
-예제와 같이!
-
-[Please keep the style of writing!
-Subject:
-Performance:
-Benefits:]
+반드시, 예제 같은 양식!
 
 #주제 키워드:'''
 
