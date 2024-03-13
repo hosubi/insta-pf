@@ -15,7 +15,6 @@ Emojis that fit the topic,
 A simple sentence with a key point,
 Form as in the example,
 
-Readable! Answer 3 to 4 sentences in total!
 Example Note! Make the best result! (Result value only!)
 [Example: Don't reuse it!]
 
@@ -26,7 +25,13 @@ Example Note! Make the best result! (Result value only!)
 🎁터지는 제목 생성기! 👇무료전자책🫡
 ⬇️ 캡션 생성기 ,릴스떡상계산기🚀))
 
-sentence 간격! 예제와 같이!
+예제와 같이!
+
+[Please keep the style of writing!
+Subject:
+Performance:
+Benefits:]
+
 #주제 키워드:'''
 
 
