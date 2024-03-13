@@ -13,9 +13,7 @@ prompt = '''As an Instagram expert, please analyze the profile setting of the ex
 
 Answer based on example value!
 In the answer, type of text as in the example! Line up!
-(1 sentence title,
-Performance in 2 sentences,
-3 sentence benefit provided)
+
 Readable! Answer 3 to 4 sentences in total!
 Example Note! Make the best result! (Result value only!)
 [Example: Don't reuse it!]
