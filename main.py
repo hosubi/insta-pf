@@ -11,8 +11,9 @@ st.write('프로필!:exclamation:')
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
 prompt = '''As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
 
-Answer based on example value!
-In the answer, type of text as in the example! Line up!
+Emojis that fit the topic,
+A simple sentence with a key point,
+Form as in the example,
 
 Readable! Answer 3 to 4 sentences in total!
 Example Note! Make the best result! (Result value only!)
