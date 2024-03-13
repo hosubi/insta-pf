@@ -8,7 +8,7 @@ chat_model = ChatOpenAI()
 st.header('인스타 :red[프로필!]', divider='rainbow')
 st.write('프로필!:exclamation:')
        
-content = st.text_input('주제, 키워드 입력!  :memo:, !')
+content = st.text_input('주제, 키워드 입력!  :memo:, (양식 : 육아 전문가, 아들3명, 건강레시피)와 같이 입력! !')
 prompt = '''As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
 
 Emojis that fit the topic,
