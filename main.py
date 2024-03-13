@@ -9,18 +9,18 @@ st.header('인스타 :red[프로필!]', divider='rainbow')
 st.write('프로필!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, (양식 : 육아 전문가, 아들3명, 건강레시피)와 같이 입력! !')
-prompt = '''As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
-
-((예시:
+prompt = '''
+[예시:
 섭엗 | 쉬운 마케팅 + 동기부여
 망한계정 (3년 방치된 계정)에서
-릴스1개 ➡️ 24만뷰+팔로1500명❗️
+릴스1개 ➡️ 24만뷰❗️ 빠른 인스타성장!
 🎁터지는 제목 생성기! 👇무료전자책🫡
-⬇️ 캡션 생성기 ,릴스떡상계산기🚀))
+캡션 생성기 ,릴스떡상계산기🚀]
 
 반드시, 
 위 내용의 형식으로 주제에 대한 결과값으로 답변만 부탁해!!
 (이모티콘 + 짧은글 + 줄바꿈 + 가독성 좋게!)
+As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
 Example Note! Make the best result! (Result value only!)
 [Example: Don't reuse it!]
 
