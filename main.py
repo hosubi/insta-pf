@@ -20,6 +20,10 @@ prompt = '''
 반드시, 
 위 내용의 형식으로 주제에 대한 결과값으로 답변만 부탁해!!
 (이모티콘 + 짧은글 + 줄바꿈 + 가독성 좋게!)
+[In the first line 핵심요약!,
+the second line 성과,
+The third line 성과 or 혜택
+The fourth line 혜택]
 As an Instagram expert, please analyze the profile setting of the example (#topic, keyword) and make an example of a recommended profile when you provide it! (Readability in the form of text like the example, please protect it!)
 Example Note! Make the best result! (Result value only!)
 [Example: Don't reuse it!]
